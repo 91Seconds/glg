@@ -1,0 +1,26 @@
+.crop {
+    max-height: 400px;
+}
+
+#nav-bar-logo {
+    width: 50px;
+    height: 50px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+#heading-block {
+    position: absolute;
+    right: 15%;
+    top: 20px;
+    left: 15%;
+    z-index: 10;
+    color: white;
+}
+
+.nav-item a {
+    overflow: hidden;
+    white-space: nowrap;
+}
